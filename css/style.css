@@ -1,0 +1,131 @@
+body {
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;  
+}
+.wrapper {
+    display: flex;
+    align-content:center;
+    background-color: #DCDCDC;
+    justify-content: center;
+}
+
+.text_1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 70px;
+    font-weight: 650;
+    color: #008B8B;
+    text-align: center;
+}
+.car {
+    font-size: 45px;
+    font-weight: 600;
+    color: #008B8B;
+    text-align: center;
+}
+.content {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 30px;
+}
+.dog {
+    width: 850px;
+    height: 500px;
+}
+.content_2 {
+    display: flex;
+    justify-content: space-around;
+    margin: 30px;
+}
+.content_3 {
+    display: flex;
+    justify-content: space-around;
+    margin: 30px;
+}
+.dog_1 {
+    width: 750px;
+    height: 500px;
+}
+.dog_5 {
+    width: 450px;
+    height: 500px;
+}
+.content_4 {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin: 30px;
+}
+
+.zag_1 {
+    font-size: 60px;
+    font-weight: 650;
+    color: #008B8B;
+    text-align: center;
+}
+.content_5 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: 30px;
+}
+.col {
+    background-color: aqua;
+}
+.col_1 {
+    background-color: #6B8E23;
+}
+.col_2 {
+    background-color: #008080;
+}
+.col_3 {
+    background-color: #FFFF00;
+}
+.col_4 {
+    background-color: #7B68EE;
+}
+.col_5 {
+    background-color: #EEE8AA;
+}
+.col_6 {
+    background-color: #B22222;
+}
+.col_7 {
+    background-color: #FF8C00;
+}
+.col_8 {
+    background-color: #BDB76B;
+}
+.col_9 {
+    background-color: #ADFF2F;
+}
+.col_10 {
+    background-color: #A52A2A;
+}
+.col_11 {
+    background-color: #778899;
+}
+.col_12 {
+    background-color: #8B4513;
+}
+.col_13 {
+    background-color: #32CD32;
+}
+.col_14 {
+    background-color: #FF4500;
+}
+.col_15 {
+    background-color: #FF1493;
+}
+.col_16 {
+    background-color: #DAA520;
+}
+.col_17 {
+    background-color: #FFA07A;
+}
+table {
+    border: 5px solid #000;
+} 
+td {
+    border: 1px solid grey;
+} 
